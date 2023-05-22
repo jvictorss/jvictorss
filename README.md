@@ -1,5 +1,6 @@
 -  Hi, I’m João Victor
 -  I’m interested in Java
+-  I'm specializing myself in Software Engineering
 -  I’m currently learning Java with frameworks Spring Boot and Micronaut
 -  I've worked with AWS, Git, Junit, PostgreSQL, DynamoDB, SQS, S3
 -  I’m looking to collaborate on projects with Java envolved.
